@@ -1,0 +1,14 @@
+vendor/
+
+venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+git/
+
+.dockerignore
+
+.gitignore
