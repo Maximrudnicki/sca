@@ -66,4 +66,4 @@ The Spy Cat Agency (SCA) needs a management application to streamline their spyi
 
    Once everything is up and running, visit [http://localhost:8000](http://localhost:8000) in your web browser.
 
-   Alternatively, you can test the API using Postman by visiting this collection: [SCA Postman Collection](https://www.postman.com/navigation-engineer-62741940/workspace/rudnytskyi-test/collection/25383927-2ea6fdcf-a203-4ca9-b2c9-f09eb1bbb83b?action=share&creator=25383927)
+   Alternatively, you can test the API using Postman by visiting this collection: [SCA Postman Collection](https://www.postman.com/navigation-engineer-62741940/workspace/sca)
